@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pupil Detection</string>
+    <string name="instruction">1. Tap on DETECT PUPIL button.\n2. Now focus camera on single eye.\n3. Keep varying distance of phone from eye until rectangle does not appear around eye.\n4. Pupil will be detected as small circle inside rectangle.\n5. Tap on RESULTS button to see pupil size.</string>
+    <string name="detect_pupil">Detect Pupil</string>
+    <string name="browse">Browse</string>
+    <string name="detect">Detect</string>
+    <string name="clearResult">Clear result</string>
+</resources>

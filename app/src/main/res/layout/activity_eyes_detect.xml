@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <org.opencv.android.JavaCameraView
+        android:id="@+id/eyes_activity_surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageButton
+        android:id="@+id/changeMode"
+        android:layout_margin="5dp"
+        android:layout_alignParentRight="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/switchcamera"
+        android:layout_width="50dp"
+        android:layout_height="50dp" />
+
+    <Button
+        android:layout_margin="5dp"
+        android:background="@color/colorPrimary"
+        android:textColor="#FFFFFF"
+        android:id="@+id/resultBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="Results" />
+</RelativeLayout>
