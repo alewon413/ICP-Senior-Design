@@ -4,8 +4,14 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/176588d32122560a07b64c54e301c1ec/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/176588d32122560a07b64c54e301c1ec/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/176588d32122560a07b64c54e301c1ec/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/rules-1.0.1.aar/8a9ed76e4536c46a98dadd12a7b8f5bd/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0050aa2058061b738a68ab60f99d545d/rules-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0050aa2058061b738a68ab60f99d545d/rules-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0050aa2058061b738a68ab60f99d545d/rules-1.0.1/AndroidManifest.xml" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test/rules/1.0.1/7969301d0d9cfa3bd123ce685ef7a918db9eaa4d/rules-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support.test/rules/1.0.1/8d0aaa918b00c7ef6487610c9175276de6df953e/rules-1.0.1-sources.jar!/" />
     </SOURCES>

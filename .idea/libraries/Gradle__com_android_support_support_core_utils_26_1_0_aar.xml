@@ -4,6 +4,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e1308a14a86184d6a84d05313738d286/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e1308a14a86184d6a84d05313738d286/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/e1308a14a86184d6a84d05313738d286/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/bb9f2f306f15715b96673bfd3ba2f79d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
